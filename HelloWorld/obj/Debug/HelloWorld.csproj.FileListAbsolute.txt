@@ -1,0 +1,6 @@
+C:\Users\edicos\Documents\Visual Studio 2015\MVA_Courses\CSharp-Grundlagen fuer Anfaenger\CSharp-Basics\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\edicos\Documents\Visual Studio 2015\MVA_Courses\CSharp-Grundlagen fuer Anfaenger\CSharp-Basics\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\edicos\Documents\Visual Studio 2015\MVA_Courses\CSharp-Grundlagen fuer Anfaenger\CSharp-Basics\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\edicos\Documents\Visual Studio 2015\MVA_Courses\CSharp-Grundlagen fuer Anfaenger\CSharp-Basics\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\edicos\Documents\Visual Studio 2015\MVA_Courses\CSharp-Grundlagen fuer Anfaenger\CSharp-Basics\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\edicos\Documents\Visual Studio 2015\MVA_Courses\CSharp-Grundlagen fuer Anfaenger\CSharp-Basics\HelloWorld\obj\Debug\HelloWorld.pdb

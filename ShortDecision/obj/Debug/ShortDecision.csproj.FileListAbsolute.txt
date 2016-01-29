@@ -1,0 +1,5 @@
+C:\Users\edicos\Documents\Visual Studio 2015\MVA_Courses\CSharp-Grundlagen fuer Anfaenger\CSharp-Basics\ShortDecision\bin\Debug\ShortDecision.exe.config
+C:\Users\edicos\Documents\Visual Studio 2015\MVA_Courses\CSharp-Grundlagen fuer Anfaenger\CSharp-Basics\ShortDecision\bin\Debug\ShortDecision.exe
+C:\Users\edicos\Documents\Visual Studio 2015\MVA_Courses\CSharp-Grundlagen fuer Anfaenger\CSharp-Basics\ShortDecision\bin\Debug\ShortDecision.pdb
+C:\Users\edicos\Documents\Visual Studio 2015\MVA_Courses\CSharp-Grundlagen fuer Anfaenger\CSharp-Basics\ShortDecision\obj\Debug\ShortDecision.exe
+C:\Users\edicos\Documents\Visual Studio 2015\MVA_Courses\CSharp-Grundlagen fuer Anfaenger\CSharp-Basics\ShortDecision\obj\Debug\ShortDecision.pdb

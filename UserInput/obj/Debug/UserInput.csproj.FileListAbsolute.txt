@@ -1,0 +1,6 @@
+C:\Users\edicos\Documents\Visual Studio 2015\MVA_Courses\CSharp-Grundlagen fuer Anfaenger\CSharp-Basics\UserInput\bin\Debug\UserInput.exe.config
+C:\Users\edicos\Documents\Visual Studio 2015\MVA_Courses\CSharp-Grundlagen fuer Anfaenger\CSharp-Basics\UserInput\bin\Debug\UserInput.exe
+C:\Users\edicos\Documents\Visual Studio 2015\MVA_Courses\CSharp-Grundlagen fuer Anfaenger\CSharp-Basics\UserInput\bin\Debug\UserInput.pdb
+C:\Users\edicos\Documents\Visual Studio 2015\MVA_Courses\CSharp-Grundlagen fuer Anfaenger\CSharp-Basics\UserInput\obj\Debug\UserInput.csprojResolveAssemblyReference.cache
+C:\Users\edicos\Documents\Visual Studio 2015\MVA_Courses\CSharp-Grundlagen fuer Anfaenger\CSharp-Basics\UserInput\obj\Debug\UserInput.exe
+C:\Users\edicos\Documents\Visual Studio 2015\MVA_Courses\CSharp-Grundlagen fuer Anfaenger\CSharp-Basics\UserInput\obj\Debug\UserInput.pdb

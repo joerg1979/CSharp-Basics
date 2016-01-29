@@ -1,0 +1,6 @@
+C:\Users\edicos\Documents\Visual Studio 2015\MVA_Courses\CSharp-Grundlagen fuer Anfaenger\CSharp-Basics\ConsoleApplication1\bin\Debug\Decision.exe.config
+C:\Users\edicos\Documents\Visual Studio 2015\MVA_Courses\CSharp-Grundlagen fuer Anfaenger\CSharp-Basics\ConsoleApplication1\bin\Debug\Decision.exe
+C:\Users\edicos\Documents\Visual Studio 2015\MVA_Courses\CSharp-Grundlagen fuer Anfaenger\CSharp-Basics\ConsoleApplication1\bin\Debug\Decision.pdb
+C:\Users\edicos\Documents\Visual Studio 2015\MVA_Courses\CSharp-Grundlagen fuer Anfaenger\CSharp-Basics\ConsoleApplication1\obj\Debug\Decision.exe
+C:\Users\edicos\Documents\Visual Studio 2015\MVA_Courses\CSharp-Grundlagen fuer Anfaenger\CSharp-Basics\ConsoleApplication1\obj\Debug\Decision.pdb
+C:\Users\edicos\Documents\Visual Studio 2015\MVA_Courses\CSharp-Grundlagen fuer Anfaenger\CSharp-Basics\ConsoleApplication1\obj\Debug\Decision.csprojResolveAssemblyReference.cache

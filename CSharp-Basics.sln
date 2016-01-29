@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortDecision", "ShortDecis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comments", "Comments\Comments.csproj", "{F4E28264-5026-4E3C-B205-42A53FEE0C2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorsOperanats", "OperatorsOperanats\OperatorsOperanats.csproj", "{8D6392C0-43A8-44C4-9F5E-133738EC784E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F4E28264-5026-4E3C-B205-42A53FEE0C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4E28264-5026-4E3C-B205-42A53FEE0C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4E28264-5026-4E3C-B205-42A53FEE0C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D6392C0-43A8-44C4-9F5E-133738EC784E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6392C0-43A8-44C4-9F5E-133738EC784E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6392C0-43A8-44C4-9F5E-133738EC784E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6392C0-43A8-44C4-9F5E-133738EC784E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

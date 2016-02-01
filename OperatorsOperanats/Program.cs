@@ -62,7 +62,6 @@ namespace OperatorsOperanats
             /**
                 Mathematische Operatoren | Mathematical operators
             */
-
             Console.WriteLine(introducingText[languageCode]);
             Console.ReadLine();
             // Verarbeitung 

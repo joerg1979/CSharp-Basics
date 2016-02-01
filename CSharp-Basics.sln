@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayShortNotation", "Array
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayForEach", "ArrayForEach\ArrayForEach.csproj", "{570E0FEF-3432-4326-9FF4-8A31A9A55918}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayOfChars", "ArrayOfChars\ArrayOfChars.csproj", "{D543BD14-85C6-4CF4-987E-36A9F0E9E4D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatingMethods", "CreatingMethods\CreatingMethods.csproj", "{82CCBC78-74C6-4860-8CF2-FB0EA283C347}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{570E0FEF-3432-4326-9FF4-8A31A9A55918}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{570E0FEF-3432-4326-9FF4-8A31A9A55918}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{570E0FEF-3432-4326-9FF4-8A31A9A55918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D543BD14-85C6-4CF4-987E-36A9F0E9E4D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D543BD14-85C6-4CF4-987E-36A9F0E9E4D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D543BD14-85C6-4CF4-987E-36A9F0E9E4D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D543BD14-85C6-4CF4-987E-36A9F0E9E4D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82CCBC78-74C6-4860-8CF2-FB0EA283C347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82CCBC78-74C6-4860-8CF2-FB0EA283C347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82CCBC78-74C6-4860-8CF2-FB0EA283C347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82CCBC78-74C6-4860-8CF2-FB0EA283C347}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

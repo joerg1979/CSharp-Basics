@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comments", "Comments\Commen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorsOperanats", "OperatorsOperanats\OperatorsOperanats.csproj", "{8D6392C0-43A8-44C4-9F5E-133738EC784E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForIterations", "ForIterations\ForIterations.csproj", "{0F6D9E65-484D-4438-8A74-9C1FC56AB256}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{8D6392C0-43A8-44C4-9F5E-133738EC784E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D6392C0-43A8-44C4-9F5E-133738EC784E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D6392C0-43A8-44C4-9F5E-133738EC784E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F6D9E65-484D-4438-8A74-9C1FC56AB256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F6D9E65-484D-4438-8A74-9C1FC56AB256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F6D9E65-484D-4438-8A74-9C1FC56AB256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F6D9E65-484D-4438-8A74-9C1FC56AB256}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

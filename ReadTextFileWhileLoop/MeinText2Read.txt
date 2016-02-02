@@ -23,10 +23,10 @@ URL Adminpage:				http://127.0.0.1/magento/admin
 	--- Installations Details ---
 EncryptonKey:				4d2eea7cfa8138308099faae2dbfef58
 Admin-Username:				admin
-Admin-Password:				js0511640073
+Admin-Password:				xxxxxxxxxxxxxxxx
 Registered-Email:			joerg_edv@yahoo.de
 	---Database Configuration ---
 Database-Username:			mag1
-Database-User-Password:			js0511640073
+Database-User-Password:			xxxxxxxxxxxxxxxx
 Used Database:				magento
 Database Table Prefix:			(unknown)

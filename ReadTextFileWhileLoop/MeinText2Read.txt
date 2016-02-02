@@ -1,0 +1,32 @@
+﻿Informationen zu lokalen Magento-Installationen
+__________________________
+	--- Magento Installation ---
+Physikalische Adresse:			C:\xampp\htdocs\magento
+URL Landingpage:			http://127.0.0.1/magento/
+URL Adminpage:				http://127.0.0.1/magento/admin
+	--- Installations Details ---
+EncryptonKey:				e3f0e5466d65e7802949919f57a35ba7
+Admin-Username:				admin
+Admin-Password:				magento2
+Registered-Email:			joerg_edv@yahoo.de
+	---Database Configuration ---
+Database-Username:			magento2
+Database-User-Password:			magento2
+Used Database:				magento2
+Database Table Prefix:			mg2_
+
+__________________________
+	--- Magento Installation (Bitnami-Stack) ---
+Physikalische Adresse:			C:\xampp\htdocs\magento
+URL Landingpage:			http://127.0.0.1/magento/
+URL Adminpage:				http://127.0.0.1/magento/admin
+	--- Installations Details ---
+EncryptonKey:				4d2eea7cfa8138308099faae2dbfef58
+Admin-Username:				admin
+Admin-Password:				js0511640073
+Registered-Email:			joerg_edv@yahoo.de
+	---Database Configuration ---
+Database-Username:			mag1
+Database-User-Password:			js0511640073
+Used Database:				magento
+Database Table Prefix:			(unknown)

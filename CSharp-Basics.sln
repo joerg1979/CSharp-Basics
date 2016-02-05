@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileLoopUnlimited", "While
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadTextFileWhileLoop", "ReadTextFileWhileLoop\ReadTextFileWhileLoop.csproj", "{45DEF4A7-EBE3-49C9-9F8D-4CCB82118A2C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{86CCF6EE-872C-46DA-9D94-2B6F24A09880}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{45DEF4A7-EBE3-49C9-9F8D-4CCB82118A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45DEF4A7-EBE3-49C9-9F8D-4CCB82118A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45DEF4A7-EBE3-49C9-9F8D-4CCB82118A2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86CCF6EE-872C-46DA-9D94-2B6F24A09880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86CCF6EE-872C-46DA-9D94-2B6F24A09880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86CCF6EE-872C-46DA-9D94-2B6F24A09880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86CCF6EE-872C-46DA-9D94-2B6F24A09880}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

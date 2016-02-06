@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadTextFileWhileLoop", "Re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{86CCF6EE-872C-46DA-9D94-2B6F24A09880}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBuilder-Vs-Concat", "StringBuilder-Vs-Concat\StringBuilder-Vs-Concat.csproj", "{B010EC63-7081-44AF-BF45-5B69752439DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManipulationMethods", "StringManipulationMethods\StringManipulationMethods.csproj", "{691763C2-F7A0-4633-9CE6-5CCEB1D71934}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{86CCF6EE-872C-46DA-9D94-2B6F24A09880}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86CCF6EE-872C-46DA-9D94-2B6F24A09880}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86CCF6EE-872C-46DA-9D94-2B6F24A09880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B010EC63-7081-44AF-BF45-5B69752439DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B010EC63-7081-44AF-BF45-5B69752439DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B010EC63-7081-44AF-BF45-5B69752439DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B010EC63-7081-44AF-BF45-5B69752439DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{691763C2-F7A0-4633-9CE6-5CCEB1D71934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691763C2-F7A0-4633-9CE6-5CCEB1D71934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691763C2-F7A0-4633-9CE6-5CCEB1D71934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691763C2-F7A0-4633-9CE6-5CCEB1D71934}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

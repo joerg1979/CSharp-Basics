@@ -45,11 +45,6 @@ namespace Strings
             Console.WriteLine("Internationale Telefonnummer: " + stringFormatIntPhone + "  => Schreibweise: string.Format(\"Tel.: {0 ++## (0)### ########}\", 49051137381965);");
             Console.WriteLine("Internationale Telefonnummer: " + stringFormatIntPhone2 + "  => Schreibweise: string.Format(\"Tel.: {0:00##-###-########}\", 4951137381965);");
             Console.ReadLine();
-
-
-            string stringFormater = "";
-
-
         }
     }
 }

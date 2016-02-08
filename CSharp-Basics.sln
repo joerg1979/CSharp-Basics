@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBuilder-Vs-Concat", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManipulationMethods", "StringManipulationMethods\StringManipulationMethods.csproj", "{691763C2-F7A0-4633-9CE6-5CCEB1D71934}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateAndTimes", "DateAndTimes\DateAndTimes.csproj", "{1F66CC7F-5BEB-41D1-B08C-BD8F942DA1C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{691763C2-F7A0-4633-9CE6-5CCEB1D71934}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{691763C2-F7A0-4633-9CE6-5CCEB1D71934}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{691763C2-F7A0-4633-9CE6-5CCEB1D71934}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F66CC7F-5BEB-41D1-B08C-BD8F942DA1C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F66CC7F-5BEB-41D1-B08C-BD8F942DA1C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F66CC7F-5BEB-41D1-B08C-BD8F942DA1C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F66CC7F-5BEB-41D1-B08C-BD8F942DA1C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

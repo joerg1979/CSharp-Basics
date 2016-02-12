@@ -12,25 +12,31 @@ namespace ObjectLifetime
         {
             Car meinAuto = new Car();
         }
+
+        
     }
+
     class Car
     {
         public string Marke { get; set; }
         public string Modell { get; set; }
         public string Farbe { get; set; }
         public int Baujahr { get; set; }
-
+        public double OrginalPreis { get; set; }
+        
 
         public Car()
         {
-
+            Console.WriteLine("Ein Objekt vom Typ  \"{0}\" wurde erfolgreich instanziert. \n Objekt-HashCode: {1}",this.GetType(), this.GetHashCode());
+            Console.ReadLine();
         }
-        public Car(string marke, string modell, int baujahr, string farbe)
+        public Car(string marke, string modell, int baujahr, string farbe, double orginalpreis)
         {
             this.Marke = marke;
             this.Modell = modell;
             this.Baujahr = baujahr;
             this.Farbe = farbe;
+            this.OrginalPreis = orginalpreis;
         }
 
         /**
@@ -44,6 +50,7 @@ namespace ObjectLifetime
             this.Farbe = farbe;
         }
         */
-
     }
+
+
 }
